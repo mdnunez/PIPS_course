@@ -1,0 +1,35 @@
+---
+title: "Assignment 4.2P"
+subtitle: '2022 Programming in Psychological Science'
+output:
+  html_document:
+    toc: yes
+  pdf_document:
+    toc: yes
+---
+
+<!-- Authors: Michael D. Nunez, Hannes Rosenbusch-->
+
+<!-- Changes: -->
+<!-- Michael 30-Jan-22 -->
+
+### Assignment description
+
+Build the following PsychoPy stimulus and analyse the resulting data. This stimulus and analysis are worth 2 points. You should also complete Assignment 4.1 for 8 points. The total of Assignments 4.1 (R) and your choice of either 4.2P (this PsychoPy experiment) or 4.2R (R style challenge) are worth 10 points and 15% of your final course grade. You must work individually, but feel free to ask questions in class and on Slack! 
+
+## Q4.2P.1 (1.5 points)
+
+Create a PsychoPy stimulus that asks participants a multiple choice question on every experimental trial. Each multiple choice question must be a question about programming in R and/or Python. The PsychoPy script **must** collect accuracy **and response time data** on every experimental trial. The experimental task must include at least 10 distinct questions with one question per experimental trial **in random order**. However you can include more questions if you wish. 
+
+Note that the experimental setup is very similar to this Stroop experiment example in this link:
+
+https://youtu.be/xkQ6HRoBMR8
+
+Note that you can use the PsychoPy GUI to create the experiment. You can also build this experiment using only a Python script, or use both the GUI and the Python language to make your experiment.
+
+Provide the Python script that runs your experiment in a .zip file. Include any other files necessary to run your experiment (e.g. a .xlsx file) in the .zip file. 
+
+## Q4.2P.2 (0.5 points)
+
+Collect data on at least one person (who can be yourself) from at least 10 full runs of your  experiment (e.g. every  experimental trial 10 times each). Plot mean response time data over time in a nice plot generated from ``matplotlib``. Provide the Python script that generates the plot and the plot itself.
+

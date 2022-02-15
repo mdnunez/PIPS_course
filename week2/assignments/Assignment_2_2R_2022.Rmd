@@ -1,0 +1,42 @@
+---
+title: "Assignment 2.2R"
+subtitle: '2022 Programming in Psychological Science'
+output:
+  pdf_document:
+    toc: yes
+  html_document:
+    toc: yes
+---
+
+<!-- Authors: Michael D. Nunez, Hannes Rosenbusch, Johnny van Doorn-->
+
+<!-- Changes: -->
+<!-- Michael 15-Jan-21 -->
+
+### Assignment description
+
+Choose to create one or both of the following two R programs. Each program is worth 1 point. Although the second program will take much more work. We will award partial points based on effort and correctness.
+
+You should also complete Assignment 2.1 for 8 points. The total of Assignments 2.1 and your choice of either 2.2R (this R challenge) or 2.2P (Python) are worth 10 points and 15% of your final course grade. You must work individually, but feel free to ask questions in class and on Slack! 
+
+You must submit **each** solution as an R program (.R file). So if you choose to write both programs, submit both files in a .zip folder. The best programs are those that work, follow style guidelines (https://style.tidyverse.org/), have clear variable names, and have comments so that other programmers (and your future self) can read and adapt the code.
+
+## Q2.2R.1 (1 point)
+
+Read about [THE INFINITE MONKEY THEOREM](https://en.wikipedia.org/wiki/Infinite_monkey_theorem). See also [THIS IMPORTANT CULTURAL VIDEO](https://www.youtube.com/watch?v=no_elVGGgW8).
+
+Simulate one monkey typing random letters on a typewriter in sequences of 5 letters. The simulated monkey should type 5 letters, then a space, and so on. Create a **function** that returns the number of 5-letter sequences typed before making a coherent 5-letter word.
+
+Use a file that contains all English (or other human language) 5 letter words (e.g., http://www-cs-faculty.stanford.edu/~knuth/sgb-words.txt) 
+
+Run your function 100 times. What is the mean and standard deviation of the number of 5-letter sequences? WARNING: if you loop many times, the loop could be quite slow. We recommend starting with a much smaller number (i.e., 5) for testing your code. 
+ 
+We are not awarding points based on plotting. However you could create nice plots and histograms of the result of running your function 100 times.
+
+## Q2.2R.2 (1 point)
+
+Create a program that allows you to play Hangman in the R console. Read more about the Hangman game if you are not already familiar with it here: https://en.wikipedia.org/wiki/Hangman_%28game%29. 
+
+Your R program should pick a random word from a long list of words. The player in the R console will guess letters in the words. The Hangman word list can be in any human language you choose (e.g. Nederlands, English, Deutsch, etc.)
+
+We are not awarding points based on Hangman graphics. But graphics can be included in your program if you wish, either as text-based graphics in the R console or in a figure.
