@@ -6,7 +6,7 @@ Programming in Psychological Science (PIPS) course. This repository contains mat
 
 **Course Instructors: Michael Nunez and Hannes Rosenbusch from the University of Amsterdam**
 
-**Based on course materials from Johnny van Doorn**
+**Based on course materials from Johnny van Doorn from the University of Amsterdam**
 
 ### Introduction
 
