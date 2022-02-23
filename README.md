@@ -1,7 +1,7 @@
 <img src="./figures/PIPS_logo.png" height="128">
 
 # PIPS_course
-#### (Repository version 0.1.3)
+#### (Repository version 0.1.4)
 Programming in Psychological Science (PIPS) course. This repository contains materials for an introductory R + Python course.
 
 **Course Instructors: Michael Nunez and Hannes Rosenbusch from the University of Amsterdam**
