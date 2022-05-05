@@ -8,6 +8,7 @@
 # 08-Feb-22     Michael D. Nunez           Addition of new problems
 # 11-Feb-22     Michael D. Nunez           Extra grading rubric comments
 # 15-Feb-22     Michael D. Nunez             Add libraries, extra comments
+# 21-Feb-22     Michael D. Nunez           Comment fix
 
 
 library(titanic)
@@ -57,7 +58,7 @@ was_there_a("Hippopotamus") # FALSE
 
 
 
-#I awarded half points if they attempted. 0.25 fives for some pseudocode. 
+#I awarded half points if they attempted. 0.25 awarded for some pseudocode. 
 # 0.75 points if they were extremely close. This is an example of extremely close:
 
 was_there_a <- function(search_term){
