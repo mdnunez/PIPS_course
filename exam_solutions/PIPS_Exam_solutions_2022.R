@@ -9,6 +9,7 @@
 # 11-Feb-22     Michael D. Nunez           Extra grading rubric comments
 # 15-Feb-22     Michael D. Nunez             Add libraries, extra comments
 # 21-Feb-22     Michael D. Nunez           Comment fix
+# 02-Feb-23     Michael D. Nunez          Fixing solution for E.R2
 
 
 library(titanic)
@@ -29,7 +30,7 @@ is_tensor <- function(x) {
   if(!is.array(x)){
     stop("Input must be an array")
   }
-  if(sum(x <= 2))  {
+  if(sum(length(dim(x)) <= 2))  {
     return(FALSE)  }
   else { 
     return(TRUE) 
