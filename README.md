@@ -1,7 +1,7 @@
 <img src="./figures/PIPS_logo.png" height="128">
 
 # PIPS_course
-#### (Repository version 0.1.5)
+#### (Repository version 0.1.6)
 Programming in Psychological Science (PIPS) course. This repository contains materials for an introductory R + Python course.
 
 **Course Instructors: Michael Nunez and Hannes Rosenbusch from the University of Amsterdam**
@@ -49,38 +49,38 @@ The lecture series are organized into four Weeks, with 2 R lectures and 1 Python
 
 Week 1:
 
-[R Introduction 1](https://www.youtube.com/watch?v=N9Khyo9bdPk&list=PLY3JDK9oD57jhyqr43dP4JuhiAUhZ9JB-&index=1)
+[R Introduction 1](https://www.youtube.com/watch?v=N9Khyo9bdPk&list=PLMVoTY9mVwCAYEGUNe7RNbtPYt5Qc2ZCc&index=1)
 
-[R Introduction 2](https://www.youtube.com/watch?v=Xl0uQZv4hQI&list=PLY3JDK9oD57jhyqr43dP4JuhiAUhZ9JB-&index=2)
+[R Introduction 2](https://www.youtube.com/watch?v=Xl0uQZv4hQI&list=PLMVoTY9mVwCAYEGUNe7RNbtPYt5Qc2ZCc&index=2)
 
-[Python Introduction](https://www.youtube.com/watch?v=5U4WovYcgjE&list=PLY3JDK9oD57jhyqr43dP4JuhiAUhZ9JB-&index=3)
+[Python Introduction](https://www.youtube.com/watch?v=5U4WovYcgjE&list=PLMVoTY9mVwCAYEGUNe7RNbtPYt5Qc2ZCc&index=3)
 
-[PyCharm help](https://www.youtube.com/watch?v=IO8H0qglovo&list=PLY3JDK9oD57jhyqr43dP4JuhiAUhZ9JB-&index=4)
+[PyCharm help](https://www.youtube.com/watch?v=5l6ScYVe6f0&list=PLMVoTY9mVwCAYEGUNe7RNbtPYt5Qc2ZCc&index=4)
 
 
 Week 2:
 
-[R Flow Control 1](https://www.youtube.com/watch?v=lHa7ah1Vg_U&list=PLY3JDK9oD57jhyqr43dP4JuhiAUhZ9JB-&index=5)
+[R Flow Control 1](https://www.youtube.com/watch?v=lHa7ah1Vg_U&list=PLMVoTY9mVwCAYEGUNe7RNbtPYt5Qc2ZCc&index=5)
 
-[R Flow Control 2](https://www.youtube.com/watch?v=Qf-dGv0DGj0&list=PLY3JDK9oD57jhyqr43dP4JuhiAUhZ9JB-&index=6)
+[R Flow Control 2](https://www.youtube.com/watch?v=Qf-dGv0DGj0&list=PLMVoTY9mVwCAYEGUNe7RNbtPYt5Qc2ZCc&index=6)
 
-[Python Flow Control](https://www.youtube.com/watch?v=5lHasRmeJ4Q&list=PLY3JDK9oD57jhyqr43dP4JuhiAUhZ9JB-&index=7)
+[Python Flow Control](https://www.youtube.com/watch?v=5lHasRmeJ4Q&list=PLMVoTY9mVwCAYEGUNe7RNbtPYt5Qc2ZCc&index=7)
 
 Week 3:
 
-[Plotting and art in R](https://www.youtube.com/watch?v=he9w0GCIRZA&list=PLY3JDK9oD57jhyqr43dP4JuhiAUhZ9JB-&index=8)
+[Plotting in R](https://www.youtube.com/watch?v=RPWt8KsDAHg&list=PLMVoTY9mVwCAYEGUNe7RNbtPYt5Qc2ZCc&index=8)
 
-[Style and building packages in R](https://www.youtube.com/watch?v=inwSGtWsoQQ&list=PLY3JDK9oD57jhyqr43dP4JuhiAUhZ9JB-&index=9)
+[Style and building packages in R](https://www.youtube.com/watch?v=8nRUARHsmzo&list=PLMVoTY9mVwCAYEGUNe7RNbtPYt5Qc2ZCc&index=9)
 
-[Plotting and style in Python](https://www.youtube.com/watch?v=Cb40ZIqE2FY&list=PLY3JDK9oD57jhyqr43dP4JuhiAUhZ9JB-&index=10)
+[Plotting and style in Python](https://www.youtube.com/watch?v=R9QjOxTxR1s&list=PLMVoTY9mVwCAYEGUNe7RNbtPYt5Qc2ZCc&index=10)
 
 Week 4:
 
-[Data management in the R tidyverse](https://www.youtube.com/watch?v=C6hLogrEyRg&list=PLY3JDK9oD57jhyqr43dP4JuhiAUhZ9JB-&index=11)
+[Data management in the R tidyverse](https://www.youtube.com/watch?v=93chzpHcMNQ&list=PLMVoTY9mVwCAYEGUNe7RNbtPYt5Qc2ZCc&index=11)
 
-[PsychoPy experiments](https://www.youtube.com/watch?v=EBRRUAiOY5Q&list=PLY3JDK9oD57jhyqr43dP4JuhiAUhZ9JB-&index=12)
+[PsychoPy experiments](https://www.youtube.com/watch?v=jVgMgDgDmD0&list=PLMVoTY9mVwCAYEGUNe7RNbtPYt5Qc2ZCc&index=12)
 
-[Webapps in R](https://www.youtube.com/watch?v=zJ5PHDfxjjw&list=PLY3JDK9oD57jhyqr43dP4JuhiAUhZ9JB-&index=13)
+[Webapps in R](https://www.youtube.com/watch?v=zJ5PHDfxjjw&list=PLMVoTY9mVwCAYEGUNe7RNbtPYt5Qc2ZCc&index=13)
 
 ### Assignments
 
