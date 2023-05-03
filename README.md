@@ -43,7 +43,7 @@ Optional:
 
 ### Lectures
 
-Please watch the [YouTube lecture playlist](https://www.youtube.com/playlist?list=PLY3JDK9oD57jhyqr43dP4JuhiAUhZ9JB-).
+Please watch the [YouTube lecture playlist](https://www.youtube.com/playlist?list=PLMVoTY9mVwCAYEGUNe7RNbtPYt5Qc2ZCc).
 
 The lecture series are organized into four Weeks, with 2 R lectures and 1 Python lecture per week. Note that some lectures mention the live course that was given for Masters students in early 2022. Lecture slides and scripts are available within this repository organized by Week.
 
